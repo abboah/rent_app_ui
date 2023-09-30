@@ -1,16 +1,4 @@
-# home_rent
+# rent_app_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1696070346](https://github.com/abboah/rent_app_ui/assets/124472979/a6b05d6d-faa3-48c1-a3e3-de7068820ce0)
+![vlcsnap-2023-09-30-11h58m31s929](https://github.com/abboah/rent_app_ui/assets/124472979/4fa8a13f-b414-4d5e-8ce9-979cd4cc9a87)
